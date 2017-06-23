@@ -1,0 +1,32 @@
+{
+  "name": "webpack-define-loader",
+  "version": "1.0.4",
+  "engines": {
+    "node": ">=4"
+  },
+  "description": "A c style conditional compilation webpack loader.",
+  "keywords": [
+    "loader",
+    "webpack",
+    "define",
+    "ifdef"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "parse.js"
+  ],
+  "author": "wang",
+  "homepage": "https://github.com/kserver/define-loader",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kserver/define-loader/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kserver/define-loader.git"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
